@@ -14,9 +14,7 @@
   "keywords": [],
   "author": "Oskar",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "jquery": "https://github.com/tigern2/jquery.git"
-  },
-  "peerDependencies": {
   }
 }
