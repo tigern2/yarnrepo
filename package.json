@@ -15,6 +15,6 @@
   "author": "Oskar",
   "license": "MIT",
   "dependencies": {
-    "jquery": "https://github.com/tigern2/jquery.git"
+    "jquery": "git+https://git@github.com/tigern2/jquery.git"
   }
 }
