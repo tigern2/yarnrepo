@@ -10,12 +10,12 @@
     "url": "git@github.com:tigern2/yarnrepo.git"
   },
   "files": [
-    "jquery-3.0.0.tar.gz"
   ],
   "keywords": [],
   "author": "Oskar",
   "license": "MIT",
   "dependencies": {
+    "jquery": "https://github.com/tigern2/jquery.git"
   },
   "peerDependencies": {
   }
